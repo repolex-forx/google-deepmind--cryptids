@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/cryptids/commit/1f9ffee29e707e4d21d19168748c7660a87c608b",
       "git:hexsha": "1f9ffee29e707e4d21d19168748c7660a87c608b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/cryptids/commit/bff83856685b0b322914adae6b93006e53f0a693",
